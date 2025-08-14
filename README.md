@@ -129,7 +129,7 @@ FROM ff_race_2.0;
 
 - Microsoft Power BI  
 - SQL Server (T-SQL)  
-- Google Colab (Python, Pandas)  
+- Jupyter notebook (Python, Pandas)  
 - Power Query Editor  
 - DAX (for time measures)
 
